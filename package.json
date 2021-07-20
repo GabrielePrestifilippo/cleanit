@@ -15,7 +15,7 @@
     "express": "^4.15.2",
     "module-resolver": "^1.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.1",
+    "react-native": "0.62.3",
     "react-native-camera": "^3.6.0",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-maps": "0.25.0",
